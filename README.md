@@ -10,8 +10,8 @@ Main Steps：
 4.	Provide remedies to the problems identified in the model
 
 ### Key Files
-**GPA Modeling Exercise (Translated).docx**: Problem Description
-**ModelTest_Anthony.pptx**: Presentation Deck
-**foward_selection2.py**: Script for analysis
-**DATA_GPA modeling.xlsx**: Training Dataset
+**GPA Modeling Exercise (Translated).docx**: Problem Description\
+**ModelTest_Anthony.pptx**: Presentation Deck\
+**foward_selection2.py**: Script for analysis\
+**DATA_GPA modeling.xlsx**: Training Dataset\
 Other files are output produced by the script.
