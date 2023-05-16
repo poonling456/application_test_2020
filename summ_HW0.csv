@@ -1,0 +1,9 @@
+Dep. Variable:,y,R-squared:,0.906
+Model:,OLS,Adj. R-squared:,0.897
+Method:,Least Squares,F-statistic:,195.2
+Date:,"Thu, 15 Oct 2020",Prob (F-statistic):,1.0599999999999995e-208
+Time:,13:22:00,Log-Likelihood:,-2331.1
+No. Observations:,395,AIC:,4730.0
+Df Residuals:,361,BIC:,4866.0
+Df Model:,33,,
+Covariance Type:,HC1,,
