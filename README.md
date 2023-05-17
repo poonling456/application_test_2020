@@ -1,6 +1,6 @@
-# DBS Application Test
+# Application Test
 ## Modelling Exercise - Academic Performance
-Project was done in Dec 2020.
+Project was a job application test for a multinational bank. Project was done in Dec 2020.
 
 ### Objective
 Build a regression model to to explore possible factors affecting the academic performance. Factors include 1) school attributes, 2) teacher qualification, and 3) family's education background.
